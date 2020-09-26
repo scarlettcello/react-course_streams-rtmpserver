@@ -1,0 +1,22 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarlettcello/react-course_streams-rtmpserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scarlettcello/react-course_streams-rtmpserver/issues"
+  },
+  "homepage": "https://github.com/scarlettcello/react-course_streams-rtmpserver#readme",
+  "dependencies": {
+    "node-media-server": "^2.2.4"
+  }
+}
